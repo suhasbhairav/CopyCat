@@ -1,2 +1,2 @@
 # CopyCat
-A plagiarism evaluation tool
+A plagiarism evaluation tool in Java
